@@ -1,0 +1,9 @@
+commit 13917b4e3e54b97594d34ee999bdfee1696a6bb0
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Jun 9 16:24:22 2020 -0700
+
+    V1.0 (#1262)
+    
+    * updating packages for 1.0
+    
+    * updated model-viewer version
